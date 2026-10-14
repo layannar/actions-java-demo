@@ -1,4 +1,4 @@
-public class Welcome{
+public class Welcom{
 
 public static void main(String args[])
 {
